@@ -149,3 +149,25 @@ footer{
     border-bottom: 1px solid black;
     min-height: 600px;
 }
+/* projo */
+.a11 img,.a22 img,.a33 img{
+    width: 70%;
+}
+.a11 p,.a22 p,.a33 p{
+    
+}
+.ss2{
+    width: 100%;
+    min-height: 500px;
+
+}
+.s2s{
+    width: 100%;
+    display: flex;
+}
+.ss2a h1{
+    text-align: center;
+}
+.a11,.a22,.a33{
+    padding: 20px;
+}
